@@ -1,5 +1,5 @@
 {
-  "name": "mock-express-response",
+  "name": "@atelierfabien/mock-express-response",
   "version": "0.2.2",
   "description": "Nodejs library to mock express http response",
   "keywords": [
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lykmapipo/mock-express-response.git"
+    "url": "https://github.com/fabien/mock-express-response.git"
   },
   "author": {
     "name": "lykmapipo",
@@ -32,13 +32,17 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lykmapipo/mock-express-response/issues"
+    "url": "https://github.com/fabien/mock-express-response/issues"
   },
-  "homepage": "https://github.com/lykmapipo/mock-express-response",
+  "homepage": "https://github.com/fabien/mock-express-response",
   "contributors": [
     {
       "name": "lykmapipo",
       "github": "https://github.com/lykmapipo"
+    },
+    {
+      "name": "fabien",
+      "github": "https://github.com/fabien"
     }
   ],
   "devDependencies": {
